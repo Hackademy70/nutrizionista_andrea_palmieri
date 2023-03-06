@@ -49,3 +49,23 @@
     background-color: rgb(253, 255, 253);
     color: black;
 }
+
+/* Sezione carosello */
+
+.carosello {
+    background-color: rgb(156, 147, 12);
+}
+
+.h-img {
+    height: 300px;
+    width: 425px;
+}
+
+.testocarosello {
+    color: rgb(0, 0, 0);
+}
+
+h5, p {
+    background-color: white;
+    border-radius: 5px;
+}
