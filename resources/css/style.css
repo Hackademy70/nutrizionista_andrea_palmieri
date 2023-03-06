@@ -6,7 +6,7 @@
     background-color: rgb(156, 147, 12);
 }
 
-.img {
+.logo {
     width: 40px;
 }
 
@@ -20,9 +20,32 @@
     color: white;
     border-color: rgb(13, 112, 13);
     border-radius: 10px;
+    transition: 0.8s;
 }
 
 .btn1:hover, .btn2:hover {
     background-color: rgb(228, 216, 50);
     color: white;
+}
+
+/* Sezione principale */
+
+.img {
+    width: 400px;
+}
+
+.principal {
+    background-color: rgb(13, 112, 13);
+    color: rgb(156, 147, 12);
+}
+
+.btn3 {
+    background-color: rgb(156, 147, 12);
+    color: white;
+    transition: 0.8s;
+}
+
+.btn3:hover {
+    background-color: rgb(253, 255, 253);
+    color: black;
 }
