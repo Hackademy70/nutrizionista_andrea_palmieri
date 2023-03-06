@@ -1,0 +1,28 @@
+* {
+    font-family: 'Shantell Sans', cursive;
+}
+
+.bg-navbar {
+    background-color: rgb(156, 147, 12);
+}
+
+.img {
+    width: 40px;
+}
+
+.dropdown-item:hover {
+    background-color: rgb(13, 112, 13);
+    border-radius: 8px;
+}
+
+.btn1, .btn2 {
+    background-color: rgb(13, 112, 13);
+    color: white;
+    border-color: rgb(13, 112, 13);
+    border-radius: 10px;
+}
+
+.btn1:hover, .btn2:hover {
+    background-color: rgb(228, 216, 50);
+    color: white;
+}
